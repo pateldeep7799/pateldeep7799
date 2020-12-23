@@ -25,7 +25,7 @@
 
 <ul>
  
- <li> <p class="text-align: justify;">🔭 Currently I’m student at Parul University <i>pursuing Computer Science and Engineering </i> in Last year of UnderGraduate studies. <a href="https://www.linkedin.com/in/deep-patel-7799d/"></a></p></li>
+ <li> <p class="text-align: justify;">🔭 Currently I’m studying at Parul University <i>pursuing Computer Science and Engineering </i> in my last year of UnderGraduate studies. <a href="https://www.linkedin.com/in/deep-patel-7799d/"></a></p></li>
  <li> 💼 Started my first intern as an Web Developer at <a href="https://www.coruscatesolution.com/"><b>ARCTIKCIRCLE</b></a> </li>
  
  <li> 💡 Intrested in Python Development.</li>
