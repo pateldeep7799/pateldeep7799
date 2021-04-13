@@ -26,7 +26,7 @@
 <ul>
  
  <li> <p class="text-align: justify;">🔭 Currently I’m studying at Parul University <i>pursuing Computer Science and Engineering </i> in my last year of UnderGraduate studies. <a href="https://www.linkedin.com/in/deep-patel-7799d/"></a></p></li>
- <li> 💼 Started my first intern as an Web Developer at <a href="https://www.arctikcircle.com/"><b>ARCTIKCIRCLE</b></a> </li>
+ <li> 💼 Started my first full time job as an Data Processing Specialist at <a href="https://nielseniq.com/global/en/"><b>NielsenIQ</b></a> </li>
  
  <li> 💡 Intrested in Python Development.</li>
  <li> 🎧 I Love to listen Music 🎶 and watch Football matches 📽️.</li>
