@@ -16,8 +16,7 @@
 
 
 ### :eyes: No of Profile Views,
-<img alt="Viewers" src="https://komarev.com/ghpvc/?username=pateldeep7799&color=green&style=flat-square"/>
-<img  src="https://badges.pufler.dev/visits/pateldeep7799/pateldeep7799?color=black&logo=github" />
+<img alt="Viewers" src="https://komarev.com/ghpvc/?username=pateldeep7799&color=green&style=flat-square"/> <img src="https://badges.pufler.dev/visits/pateldeep7799/pateldeep7799?color=black&logo=github" />
 
 <hr />
 
